@@ -1,0 +1,20 @@
+masters:
+  - name: "Title & Subtitle"
+    cover: true
+  - name: "Photo - Horizontal"
+    template: 1
+  - name: "Title - Center"
+    template: 2
+  - name: "Photo - Vertical"
+    template: 3
+  - name: "Title - Top"
+  - name: "Title & Bullets"
+  - name: "Title, Bullets & Photo"
+    template: 5
+  - name: "Bullets"
+  - name: "Photo - 3 Up"
+    template: 6
+  - name: "Quote"
+  - name: "Photo"
+    template: 4
+  - name: "Blank"
